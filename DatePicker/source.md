@@ -1,3 +1,5 @@
+https://velog.io/@kajpjs0508/Android-DatePicker
+
 activity_main
 
 ```xml
@@ -119,4 +121,3 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
-
